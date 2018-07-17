@@ -1,0 +1,28 @@
+{
+  "name": "duhathostbot",
+  "version": "1.0.0",
+  "description": "Support system for site visitors",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobilobaajibola/duhathostbot.git"
+  },
+  "keywords": [
+    "duhathost",
+    "support",
+    "system"
+  ],
+  "author": "Tobiloba Ajibola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobilobaajibola/duhathostbot/issues"
+  },
+  "homepage": "https://github.com/tobilobaajibola/duhathostbot#readme",
+  "dependencies": {
+    "botbuilder": "^3.15.0",
+    "restify": "^7.2.1"
+  }
+}
